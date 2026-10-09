@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "gm_construct_tunnels_v2"
+	"author_name" "Author Name"
+	"info" "{"title":"gm_construct_tunnels_v2","type":"map","tags":["realism","roleplay","scenic"],"ignore":[]}"
+}
